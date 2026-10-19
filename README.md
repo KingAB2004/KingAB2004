@@ -77,7 +77,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KingAB2004&show_icons=true&hide_border=true&bg_color=0e0d0c&title_color=f2c14e&icon_color=ff8a5b&text_color=ece8e1&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAB2004&layout=compact&hide_border=true&bg_color=0e0d0c&title_color=f2c14e&text_color=ece8e1" height="165" alt="Top languages" />
+  <img src="assets/langs.svg" height="165" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=KingAB2004&hide_border=true&background=0e0d0c&ring=f2c14e&fire=ff8a5b&currStreakLabel=f2c14e&sideLabels=ece8e1&dates=a7a197&currStreakNum=ece8e1&sideNums=ece8e1" alt="GitHub streak" />
 </div>

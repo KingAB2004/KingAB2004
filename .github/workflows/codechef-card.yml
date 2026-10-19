@@ -18,14 +18,18 @@ jobs:
           python-version: "3.12"
       - name: Build card
         run: python3 scripts/codechef_card.py kingab
+      - name: Build languages card
+        run: python3 scripts/langs_card.py KingAB2004
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
-          if git diff --quiet -- assets/codechef.svg; then
+          if git diff --quiet -- assets/codechef.svg assets/langs.svg; then
             echo "No change"
             exit 0
           fi
           git config user.name "Arpit Bhomia"
           git config user.email "arpitbhomia1204@gmail.com"
-          git add assets/codechef.svg
-          git commit -m "Update CodeChef card"
+          git add assets/codechef.svg assets/langs.svg
+          git commit -m "Update profile cards"
           git push
