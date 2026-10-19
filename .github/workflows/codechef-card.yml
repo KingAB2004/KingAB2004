@@ -1,0 +1,31 @@
+name: Refresh CodeChef card
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # daily, 09:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build card
+        run: python3 scripts/codechef_card.py kingab
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/codechef.svg; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "Arpit Bhomia"
+          git config user.email "arpitbhomia1204@gmail.com"
+          git add assets/codechef.svg
+          git commit -m "Update CodeChef card"
+          git push

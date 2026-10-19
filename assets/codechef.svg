@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="290" viewBox="0 0 380 290">
+  <title>Arpit Bhomia | CodeChef Stats</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, Sans-Serif; }
+    .title { font-size: 22px; font-weight: 800; fill: #ffffff; }
+    .handle { font-size: 14px; font-weight: 600; fill: #9f9f9f; }
+    .big { font-size: 40px; font-weight: 800; fill: #ffbf00; }
+    .tier { font-size: 14px; font-weight: 600; fill: #9f9f9f; }
+    .star { font-size: 20px; opacity: 0; animation: fade .5s ease-out forwards; }
+    .label { font-size: 15px; font-weight: 600; fill: #9f9f9f; }
+    .value { font-size: 15px; font-weight: 700; fill: #ffffff; }
+    .row { opacity: 0; animation: fade .5s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="379" height="289" rx="4" fill="#151515" stroke="#e4e2e2"/>
+  <g transform="translate(28,44)">
+    <path transform="translate(0,-24) scale(1.2)" d="M7 11.5a4 4 0 0 1-.8-7.9A5 5 0 0 1 12 1a5 5 0 0 1 5.8 2.6 4 4 0 0 1-.8 7.9V17H7v-5.5ZM7 19h10v2.5a1.5 1.5 0 0 1-1.5 1.5h-7A1.5 1.5 0 0 1 7 21.5V19Z" fill="#c8a27c"/>
+    <text x="38" class="title">Arpit Bhomia</text>
+    <text x="38" y="20" class="handle">@kingab · CodeChef</text>
+  </g>
+  <g transform="translate(28,114)">
+    <text class="big">2007</text>
+    <g transform="translate(110,-12)"><text x="0" class="star" style="animation-delay:0.10s" fill="#ffbf00">★</text><text x="22" class="star" style="animation-delay:0.18s" fill="#ffbf00">★</text><text x="44" class="star" style="animation-delay:0.26s" fill="#ffbf00">★</text><text x="66" class="star" style="animation-delay:0.34s" fill="#ffbf00">★</text><text x="88" class="star" style="animation-delay:0.42s" fill="#ffbf00">★</text></g>
+    <text x="110" y="8" class="tier">5★ coder</text>
+  </g>
+  <g class="row" style="animation-delay:0.25s" transform="translate(28,150)">
+    <circle cx="6" cy="-5" r="3.5" fill="#ffbf00"/>
+    <text x="20" class="label">Current rating</text>
+    <text x="324" class="value" text-anchor="end">2007</text>
+  </g>
+  <g class="row" style="animation-delay:0.37s" transform="translate(28,177)">
+    <circle cx="6" cy="-5" r="3.5" fill="#ffbf00"/>
+    <text x="20" class="label">Max rating</text>
+    <text x="324" class="value" text-anchor="end">2007</text>
+  </g>
+  <g class="row" style="animation-delay:0.49s" transform="translate(28,204)">
+    <circle cx="6" cy="-5" r="3.5" fill="#ffbf00"/>
+    <text x="20" class="label">Global rank</text>
+    <text x="324" class="value" text-anchor="end">1186</text>
+  </g>
+  <g class="row" style="animation-delay:0.61s" transform="translate(28,231)">
+    <circle cx="6" cy="-5" r="3.5" fill="#ffbf00"/>
+    <text x="20" class="label">Country rank</text>
+    <text x="324" class="value" text-anchor="end">Inactive</text>
+  </g>
+  <g class="row" style="animation-delay:0.73s" transform="translate(28,258)">
+    <circle cx="6" cy="-5" r="3.5" fill="#ffbf00"/>
+    <text x="20" class="label">Country</text>
+    <text x="324" class="value" text-anchor="end">India</text>
+  </g>
+</svg>

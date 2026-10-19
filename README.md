@@ -23,22 +23,37 @@
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/kingAB"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=kingAB&theme=dark" alt="Codeforces stats for kingAB" height="170" /></a>
+<a href="https://codeforces.com/profile/kingAB"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=kingAB&theme=dark" alt="Codeforces stats for kingAB" height="200" /></a>
+<a href="https://www.codechef.com/users/kingab"><img src="assets/codechef.svg" alt="CodeChef stats for kingab" height="200" /></a>
 
 <table>
   <tr>
     <td align="center"><a href="https://codeforces.com/profile/kingAB"><b>Codeforces</b></a><br /><sub>Expert · max 1810</sub></td>
     <td align="center"><a href="https://www.codechef.com/users/kingab"><b>CodeChef</b></a><br /><sub>5★ · max 2007</sub></td>
     <td align="center"><a href="https://leetcode.com/u/KingAB/"><b>LeetCode</b></a><br /><sub>450+ solved</sub></td>
-    <td align="center"><b>ICPC</b><br /><sub>Kanpur Regional · AIR 40</sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><b>IICPC Quantfest 2026</b><br /><sub>Regionalist · global rank 286 (top 2%)</sub></td>
-    <td align="center" colspan="2"><b>IICPC Codefest 2026</b><br /><sub>Regionalist · global rank 341 (top 3%)</sub></td>
+    <td align="center"><b>All platforms</b><br /><sub>2000+ problems solved</sub></td>
   </tr>
 </table>
 
+<sub>The CodeChef card is rebuilt daily by a GitHub Action (<code>scripts/codechef_card.py</code>).</sub>
+
 </div>
+
+### 🏆 Achievements
+
+| | Achievement | Result | |
+| :---: | --- | --- | :---: |
+| 🥇 | **ICPC Asia Kanpur Regional Contest** | ICPC Regionalist · **AIR 40** | [certificate](https://drive.google.com/file/d/1AKEwanvFi0r4us-Iwh52z7_bFO9hl2RT/view?usp=sharing) |
+| 📊 | **IICPC Quantfest 2026** | Regionalist · global rank **286** (top 2%) | [certificate](https://drive.google.com/file/d/1RZVi-ZG06zpvr4HzUPxtIoeXJsBVufxl/view?usp=sharing) |
+| 💻 | **IICPC Codefest 2026** | Regionalist · global rank **341** (top 3%) | [certificate](https://drive.google.com/file/d/1-gRtp8R1boBsxIMgFz_MGXBup22sw71F/view?usp=sharing) |
+| 📈 | **Codeforces** | **Expert**, max rating 1810 (top 3.95%) | [profile](https://codeforces.com/profile/kingAB) |
+| ⭐ | **CodeChef** | **5★**, max rating 2007 | [profile](https://www.codechef.com/users/kingab) |
+| 🎯 | **Codeforces Round 1060 (Div. 2)** | global rank **224** · top 30 in India | |
+| 🍳 | **CodeChef contests** | rank **23** in a Division 3 contest · rank **26** in a Division 2 contest | |
+| 🧩 | **Problem solving** | **2000+** problems across platforms · 450+ on LeetCode | [leetcode](https://leetcode.com/u/KingAB/) |
+| 🎓 | **JEE Advanced 2023** | All India Rank **4500** among 180,000+ candidates | |
+| 🚀 | **ATF 2024** | cleared Round 2 · top 1% of 10,000+ participants | |
+| 📚 | **Data Science Bootcamp, IIT Guwahati (2024)** | Certificate of Excellence · top 10% | [certificate](https://drive.google.com/file/d/1OE323R_7btr_w5SpKnK1nYFiEQTgoc3V/view?usp=sharing) |
 
 ### 🛠️ Projects
 
