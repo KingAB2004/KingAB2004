@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c14e,100:ff8a5b&height=170&section=header&text=Arpit%20Bhomia&fontSize=56&fontColor=0e0d0c&fontAlignY=36&desc=kingAB%20%C2%B7%20Competitive%20Programmer%20%C2%B7%20Problem%20Solver&descSize=16&descAlignY=58&descColor=1a1305" width="100%" alt="Arpit Bhomia" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c14e,100:ff8a5b&height=200&section=header&text=Arpit%20Bhomia&fontSize=56&fontColor=0e0d0c&fontAlignY=32&desc=kingAB%20%C2%B7%20Competitive%20Programmer%20%C2%B7%20Problem%20Solver&descSize=16&descAlignY=52&descColor=1a1305" width="100%" alt="Arpit Bhomia" />
 
 <div align="center">
 
