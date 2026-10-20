@@ -9,16 +9,16 @@
   <text x="25" y="35" class="title">Most Used Languages</text>
   <mask id="bar"><rect x="0" y="0" width="250" height="8" rx="5" fill="#fff"/></mask>
   <g transform="translate(25,55)" mask="url(#bar)">
-    <rect x="0.00" y="0" width="207.13" height="8" fill="#ff8a5b"/><rect x="207.13" y="0" width="18.48" height="8" fill="#4b8bd4"/><rect x="225.61" y="0" width="14.36" height="8" fill="#f34b7d"/><rect x="239.97" y="0" width="5.70" height="8" fill="#f1e05a"/><rect x="245.67" y="0" width="2.63" height="8" fill="#a97bff"/><rect x="248.30" y="0" width="1.70" height="8" fill="#3fb950"/>
+    <rect x="0.00" y="0" width="207.04" height="8" fill="#ff8a5b"/><rect x="207.04" y="0" width="18.57" height="8" fill="#4b8bd4"/><rect x="225.62" y="0" width="14.35" height="8" fill="#f34b7d"/><rect x="239.97" y="0" width="5.70" height="8" fill="#f1e05a"/><rect x="245.67" y="0" width="2.63" height="8" fill="#a97bff"/><rect x="248.30" y="0" width="1.70" height="8" fill="#3fb950"/>
   </g>
   <g transform="translate(25,80)">
     <g transform="translate(0,0)">
       <circle cx="5" cy="6" r="5" fill="#ff8a5b"/>
-      <text x="15" y="10" class="lang">Jupyter Notebook 82.85%</text>
+      <text x="15" y="10" class="lang">Jupyter Notebook 82.82%</text>
     </g>
     <g transform="translate(150,0)">
       <circle cx="5" cy="6" r="5" fill="#4b8bd4"/>
-      <text x="15" y="10" class="lang">Python 7.39%</text>
+      <text x="15" y="10" class="lang">Python 7.43%</text>
     </g>
     <g transform="translate(0,25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
