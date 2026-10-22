@@ -36,7 +36,7 @@
   <g class="row" style="animation-delay:0.49s" transform="translate(28,204)">
     <circle cx="6" cy="-5" r="3.5" fill="#ffbf00"/>
     <text x="20" class="label">Global rank</text>
-    <text x="324" class="value" text-anchor="end">1169</text>
+    <text x="324" class="value" text-anchor="end">1186</text>
   </g>
   <g class="row" style="animation-delay:0.61s" transform="translate(28,231)">
     <circle cx="6" cy="-5" r="3.5" fill="#ffbf00"/>
